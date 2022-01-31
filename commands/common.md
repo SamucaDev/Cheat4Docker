@@ -2,9 +2,9 @@
 
 ## Listar os container que estão sendo executados
 
-A função **`strlen()`** conta a quantidade de caracteres dentro de uma string.
+O comando **`container ls`** traz todos os containers que estão ativos.
 
-[Link para documentação](https://www.php.net/manual/pt_BR/function.strlen.php)
+[Link para documentação](https://docs.docker.com/engine/reference/commandline/container_ls)
 
 ### Exemplos
 
