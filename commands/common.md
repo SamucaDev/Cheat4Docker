@@ -13,5 +13,7 @@ Exemplo #1 Listar no modelo tabela os container que estão sendo executados.
 ```docker
 docker container ls -la
 
-Saída
+Saída:
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS    PORTS     NAMES
+762d4b84f8a6   mongo     "docker-entrypoint.s…"   28 minutes ago   Created             mongodb
 ```
