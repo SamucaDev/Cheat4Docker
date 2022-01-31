@@ -12,4 +12,6 @@ Exemplo #1 Listar no modelo tabela os container que estão sendo executados.
 
 ```docker
 docker container ls -la
+
+Saída
 ```
