@@ -69,3 +69,7 @@ Saída: XPTOXPTOXPTODJDSADJAS -> Id unico da sua secret para o docker
 ```docker
 2022-02-08T10:32:26.456Z [info]: XPTOXPTOXPTODJDSADJAS
 ```
+
+## Como verificar as imagens que temos na máquina
+
+`docker image list`
