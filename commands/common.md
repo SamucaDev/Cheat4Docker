@@ -72,4 +72,6 @@ Saída: XPTOXPTOXPTODJDSADJAS -> Id unico da sua secret para o docker
 
 ## Como verificar as imagens que temos na máquina
 
-`docker image list`
+```
+docker image list
+```
